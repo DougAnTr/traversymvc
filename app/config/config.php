@@ -12,4 +12,4 @@ define('APP_ROOT', dirname(dirname(__FILE__)));
 define('BASE_URL', getenv('BASE_URL'));
 
 // Site Name
-define('SITE_NAME', 'TraversyMVC');
+define('SITE_NAME', '__YOUR_SITE_NAME__');
